@@ -1,0 +1,8 @@
+sal = float(input("Quanto você ganha por hora? "))
+horas = float(input("Quantas horas você trabalha por mês? "))
+print("------------------------------------")
+print(sal, "por hora")
+print(horas, "horas trabalhadas")
+print("-------------------------------------")
+mes = float(print(f"Total: {sal*horas:.2f}"))
+print("-------------------------------------")

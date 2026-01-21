@@ -1,0 +1,8 @@
+nome = input("Digite o nome do carro: ")
+valor = float(input("Digite o valor do carro: "))
+consumo = float(input("Digite o consumo por litro: "))
+print("--------------------------------------------")
+print("| Carro: ",nome)
+print("| Valor: ",valor)
+print("| Consumo por liros: ",consumo)
+print("--------------------------------------------")
